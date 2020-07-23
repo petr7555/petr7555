@@ -1,5 +1,5 @@
 ### Hi there, fellow programmers! 👋
-![octocat](octocat.png)
+![octocat](https://raw.githubusercontent.com/petr7555/petr7555/master/octocat.png)
 
 <!--
 **petr7555/petr7555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
