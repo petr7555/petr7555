@@ -1,4 +1,3 @@
-### Hi there, fellow programmers! 👋
 ![octocat](https://raw.githubusercontent.com/petr7555/petr7555/master/octocat.png)
 
 <!--
