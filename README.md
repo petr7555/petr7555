@@ -2,7 +2,6 @@
 
 ## My GitHub stats
 ![Trsak's github stats](https://github-readme-stats.vercel.app/api?username=petr7555&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petr7555&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **petr7555/petr7555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
