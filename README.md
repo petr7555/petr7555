@@ -1,8 +1,13 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://www.zbraneproukrajinu.cz/prispejte)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 ![octocat](https://raw.githubusercontent.com/petr7555/petr7555/master/octocat.png)
+
+## 📝 My Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## My GitHub stats
 ![Trsak's github stats](https://github-readme-stats.vercel.app/api?username=petr7555&show_icons=true&theme=dark)
