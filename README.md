@@ -6,6 +6,11 @@
 
 ## 📝 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [RASA - Session persistence](https://dev.to/petr7555/rasa-session-persistence-2a3b)
+- [RASA - Giving voice to web chatbot](https://dev.to/petr7555/rasa-giving-voice-to-web-chatbot-4aho)
+- [RASA - Socket.IO integration](https://dev.to/petr7555/rasa-socket-io-integration-pfo)
+- [RASA - Google Chat integration](https://dev.to/petr7555/rasa-google-chat-integration-3gkn)
+- [RASA - Synonyms](https://dev.to/petr7555/rasa-synonyms-3ljh)
 <!-- BLOG-POST-LIST:END -->
 
 
