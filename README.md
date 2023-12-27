@@ -2,7 +2,12 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-![octocat](https://raw.githubusercontent.com/petr7555/petr7555/master/octocat.png)
+### Hello 👋,
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=093656&background=FFFFFF00&repeat=false&random=false&width=435&lines=I'm+Petr+Janik.)](https://git.io/typing-svg)
+
+## 🔗 Let's Connect!
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/petajanik)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)
 
 ## 📝 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
@@ -13,9 +18,12 @@
 - [RASA - Synonyms](https://dev.to/petr7555/rasa-synonyms-3ljh)
 <!-- BLOG-POST-LIST:END -->
 
+## 🌟 My GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=petr7555&color=093656)
 
-## My GitHub stats
-![Trsak's github stats](https://github-readme-stats.vercel.app/api?username=petr7555&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=petr7555&show_icons=true&theme=dark)
+
+![octocat](https://raw.githubusercontent.com/petr7555/petr7555/master/octocat.png)
 
 <!--
 **petr7555/petr7555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
