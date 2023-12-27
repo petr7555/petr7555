@@ -9,7 +9,7 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/petajanik)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)
 
-## 📝 My Latest Articles
+## ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [RASA - Session persistence](https://dev.to/petr7555/rasa-session-persistence-2a3b)
 - [RASA - Giving voice to web chatbot](https://dev.to/petr7555/rasa-giving-voice-to-web-chatbot-4aho)
