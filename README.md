@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=093656&background=FFFFFF00&repeat=false&random=false&width=435&lines=I'm+Petr+Janik.)](https://git.io/typing-svg)
 
 ## 🔗 Let's Connect!
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/petajanik)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/petajanik)](https://twitter.com/intent/follow?screen_name=petajanik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](www.linkedin.com/in/petr-janik)
 
 ## ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
