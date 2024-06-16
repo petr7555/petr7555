@@ -7,7 +7,7 @@
 
 ## 🔗 Let's Connect!
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/petajanik)](https://twitter.com/intent/follow?screen_name=petajanik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](www.linkedin.com/in/petr-janik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/petr-janik/)
 
 ## ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
